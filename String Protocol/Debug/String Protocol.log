@@ -1,0 +1,3 @@
+﻿  String Protocol.cpp
+C:\Users\kohbwoo\source\repos\String Protocol\String Protocol\String Protocol.cpp(15,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  String Protocol.vcxproj -> C:\Users\kohbwoo\source\repos\String Protocol\Debug\String Protocol.exe
