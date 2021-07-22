@@ -1,0 +1,7 @@
+﻿  String Protocol Slicing.cpp
+C:\Users\kohbwoo\Documents\GitHub\String-Protocol\String Protocol\String Protocol Slicing.cpp(15,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  String Protocol.cpp
+C:\Users\kohbwoo\Documents\GitHub\String-Protocol\String Protocol\String Protocol.cpp(15,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+String Protocol.obj : error LNK2005: _main이(가) String Protocol Slicing.obj에 이미 정의되어 있습니다.
+C:\Users\kohbwoo\Documents\GitHub\String-Protocol\Debug\String Protocol.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
